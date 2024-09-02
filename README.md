@@ -79,12 +79,11 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 •	Mampu menguasai langkah-langkah instalasi, pengaturan konfigurasi dasar, serta troubleshooting dasar yang sering dihadapi selama instalasi.
 
 ### Landasan Teori
--	Sistem operasi adalah perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer. Menurut Silberschatz et al. (2018), sistem operasi bertindak sebagai perantara antara pengguna komputer dan perangkat keras komputer, menyediakan lingkungan di mana pengguna dapat mengeksekusi program secara nyaman dan efisien.
--	Linux adalah keluarga sistem operasi open-source berbasis Unix yang dikembangkan oleh Linus Torvalds pada tahun 1991. Ubuntu, dikembangkan oleh Canonical Ltd., adalah salah satu distribusi Linux yang populer. Menurut Canonical (2024), Ubuntu dirancang dengan fokus pada kemudahan penggunaan, stabilitas, dan keamanan.
--	Virtualisasi memungkinkan beberapa sistem operasi berjalan pada satu mesin fisik. VirtualBox, dikembangkan oleh Oracle Corporation, adalah perangkat lunak virtualisasi open-source yang memungkinkan pengguna untuk menjalankan beberapa sistem operasi secara bersamaan pada satu komputer (Oracle, 2024).
--	Proses instalasi sistem operasi melibatkan beberapa tahap kritis, termasuk partisi disk, instalasi bootloader, dan konfigurasi sistem. Menurut Tanenbaum dan Bos (2014), pemahaman tentang proses ini penting untuk manajemen sistem yang efektif dan pemecahan masalah.
--	Open Source dan Pengembangan Kolaboratif
--	Filosofi open-source, seperti yang diterapkan dalam pengembangan Ubuntu, mendorong transparansi, kolaborasi, dan inovasi dalam pengembangan software. Raymond (2001) menyoroti bagaimana model pengembangan open-source dapat menghasilkan software yang lebih kuat dan adaptif. 
+-	Ubuntu merupakan salah satu distribusi Linux yang terkenal dan banyak digunakan karena kestabilan, keamanan, dan dukungan komunitas yang kuat. Versi 24.04.4 LTS (Long Term Support) dari Ubuntu dirancang untuk memberikan dukungan jangka panjang, termasuk pembaruan keamanan dan perbaikan bug selama lima tahun setelah dirilis. Dengan antarmuka pengguna yang mudah digunakan dan dukungan untuk berbagai jenis perangkat keras, Ubuntu menjadi pilihan yang ideal untuk server, desktop.
+-	VirtualBox adalah perangkat lunak virtualisasi yang memungkinkan pengguna menjalankan sistem operasi lain di dalam lingkungan komputer yang sudah ada tanpa perlu melakukan instalasi langsung pada perangkat keras. Perangkat lunak ini mendukung berbagai sistem operasi seperti Linux, Windows, dan macOS, serta memungkinkan pengguna melakukan pengujian atau pengembangan perangkat lunak dalam lingkungan yang terisolasi.
+- Proses instalasi sistem operasi di VirtualBox melibatkan beberapa langkah, dimulai dengan pembuatan mesin virtual yang mengalokasikan sumber daya komputer seperti CPU, RAM, dan ruang dis untuk sistem operasi yang akan diinstal.Setelah mesin virtual siap, pengguna dapat memuat file ISO Ubuntu 24.04.4 LTS untuk memulai instalasi, yang mencakup pengaturan bahasa, partisi disk, dan konfigurasi awal sistem.
+-	Vistualisasi menawarkan berbagai keuntungan, seperti kemudahan dalam mengelola lingkungan pengujian, isolasi sistem yang aman, dan kemampuan untuk menjalankan beberapa sistem operasi sekaligus. Namun, terdapat juga tantangan, seperti performa yang mungkin lebih rendah dibandingkan dengan instalasi langsung pada perangkat keras, serta kebutuhan sumber daya yang lebih besar pada komputer host.
+
 
 </div>
 
@@ -125,7 +124,7 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 3. Tekan Tombol Baru
 4. Tuliskan Nama, tentukan folder penyimpanan, kemudian Lanjut
 
-   ![Langkah 4](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step4.png)
+   ![Langkah 4]()
 
 5. Tentukan besaran ram dan core prossesor
 
@@ -274,9 +273,9 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 # Soal 2
 
 ## Informasi Mahasiswa
-- *Nama:* M. Syaiful Karomah
-- *NIM:* 09011282328111
-- *Kelas:* SK3C
+- *Nama:* 
+- *NIM:*
+- *Kelas:*
 
 <br>
 
@@ -308,9 +307,9 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi *mount po
 # Soal 3
 
 ## Informasi Mahasiswa
-- *Nama:* M. Syaiful Karomah
-- *NIM:* 09011282328111
-- *Kelas:* SK3C
+- *Nama:*
+- *NIM:* 
+- *Kelas:* 
 
 <br>
 
