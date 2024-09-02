@@ -16,11 +16,11 @@ Dr. Ahmad Zarkarsi, M. T.
 <img src="https://github.com/user-attachments/assets/b086809c-d41c-4331-a4f6-93500d076a9c" alt="Alt Text" width="400">
 
 *Disusun Oleh:*\
-Nama: M. Syaiful Karomah\
-NIM: 09011282328111\
-Hari/Tanggal: Kamis, 29 Agustus 2024
+NAMA        : PENI ILHAMI\
+NIM         : 09011182328101\
+KELAS       : SK3B
 
-*JURUSAN SISTEM KOMPUTER*  
+*PRODI SISTEM KOMPUTER*  
 *FAKULTAS ILMU KOMPUTER*  
 *UNIVERSITAS SRIWIJAYA*  
 *2024*
@@ -68,20 +68,15 @@ Hari/Tanggal: Kamis, 29 Agustus 2024
 
 <div align="justify">
 
-Dalam era komputasi modern, pemahaman dan keterampilan dalam menginstal dan mengoperasikan berbagai sistem operasi menjadi semakin penting. Salah satu sistem operasi yang mendapat perhatian khusus adalah Ubuntu, sebuah distribusi Linux yang terkenal dengan keamanan, stabilitas, dan kemudahan penggunaannya. Ubuntu menawarkan alternatif yang kuat dan fleksibel terhadap sistem operasi proprietary, memberikan pengguna kontrol penuh atas lingkungan komputasi mereka.\
-Instalasi sistem operasi, khususnya Ubuntu, merupakan langkah fundamental dalam memahami arsitektur dan fungsi sistem operasi. Proses ini tidak hanya melibatkan pemahaman tentang perangkat keras komputer, tetapi juga konsep-konsep penting seperti partisi disk, bootloader, dan konfigurasi sistem. Melalui praktikum instalasi Ubuntu, mahasiswa dapat memperoleh pengalaman langsung dalam mengelola dan mengkonfigurasi sistem operasi, yang merupakan keterampilan penting dalam bidang teknologi informasi.\
-Penggunaan mesin virtual seperti VirtualBox dalam praktikum ini memungkinkan eksperimen yang aman dan fleksibel dengan berbagai konfigurasi sistem tanpa risiko merusak sistem utama. Hal ini memberikan lingkungan belajar yang ideal untuk memahami proses instalasi, konfigurasi, dan manajemen sistem operasi.\
-Selain itu, Ubuntu, sebagai sistem operasi open-source, menawarkan peluang untuk mempelajari dan berkontribusi pada pengembangan software. Ini sejalan dengan filosofi pendidikan yang mendorong eksplorasi, inovasi, dan kolaborasi dalam dunia teknologi informasi.\
-Praktikum instalasi Ubuntu ini juga memberikan dasar yang kuat untuk mata kuliah lanjutan dalam sistem operasi, jaringan komputer, dan keamanan sistem. Pemahaman yang diperoleh dari proses instalasi ini akan membantu mahasiswa dalam memahami konsep-konsep yang lebih kompleks dalam pengelolaan sistem dan pengembangan software di masa depan.\
-Dengan melakukan praktikum ini, mahasiswa diharapkan tidak hanya memperoleh keterampilan teknis dalam instalasi sistem operasi, tetapi juga mengembangkan pemahaman yang lebih dalam tentang prinsip-prinsip dasar sistem operasi, manajemen sumber daya komputer, dan pentingnya fleksibilitas dalam lingkungan komputasi modern.
+Dalam era digital yang terus berkembang, penguasaan terhadap sistem operasi (OS) menjadi keahlian yang sangat diperlukan, terutama bagi mereka yang terlibat dalam bidang teknologi informasi. Linux, sebagai salah satu sistem operasi open-source yang paling populer, memiliki berbagai distribusi yang digunakan secara luas, salah satunya adalah Ubuntu. Versi Ubuntu 22.04.4 LTS, menawarkan peningkatan dalam performa, stabilitas, dan fitur keamanan yang membuatnya menjadi pilihan yang menarik bagi pengguna dari berbagai kalangan, mulai dari pengembang perangkat lunak hingga administrator sistem.\
+Virtualisasi adalah salah satu teknologi yang memainkan peran penting dalam pengembangan dan pengujian perangkat lunak. Dengan menggunakan perangkat lunak virtualisasi seperti VirtualBox 7.0.20. Melalui praktikum ini, diharapkan dapat menguasai langkah-langkah instalasi, pengaturan konfigurasi dasar, serta troubleshooting dasar yang sering dihadapi selama instalasi. \
+Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam mengolah dan memelihara lingkungan sistem operasi berbasis Linux, yang pada gilirannya akan memperluas peluang dalam dunia kerja yang semakin kompetitif.
+
 
 ### Tujuan
--	Memahami proses instalasi sistem operasi Ubuntu pada lingkungan virtual menggunakan VirtualBox.
--	Mempraktikkan langkah-langkah konfigurasi awal sistem operasi Ubuntu, termasuk pengaturan bahasa, zona waktu, dan akun pengguna.
--	Mengeksplorasi antarmuka grafis Ubuntu dan membiasakan diri dengan lingkungan desktop Linux.
--	Mendapatkan pengalaman hands-on dalam manajemen sumber daya virtual seperti alokasi RAM, penyimpanan, dan core prosesor.
--	Meningkatkan pemahaman tentang konsep virtualisasi dan manfaatnya dalam pembelajaran sistem operasi.
--	Mempersiapkan lingkungan kerja yang aman untuk eksperimen dan pembelajaran lebih lanjut tentang sistem operasi Linux tanpa mempengaruhi sistem utama.
+•	Mampu mengetahui prosedur instalasi pada sistem operasi Linux Ubuntu menggunakan VirtualBox.
+•	Mengenalkan konsep virtualisasi menggunakan VirtualBox.
+•	Mampu menguasai langkah-langkah instalasi, pengaturan konfigurasi dasar, serta troubleshooting dasar yang sering dihadapi selama instalasi.
 
 ### Landasan Teori
 -	Sistem operasi adalah perangkat lunak sistem yang mengelola sumber daya perangkat keras dan perangkat lunak komputer. Menurut Silberschatz et al. (2018), sistem operasi bertindak sebagai perantara antara pengguna komputer dan perangkat keras komputer, menyediakan lingkungan di mana pengguna dapat mengeksekusi program secara nyaman dan efisien.
@@ -104,14 +99,14 @@ Dengan melakukan praktikum ini, mahasiswa diharapkan tidak hanya memperoleh kete
 <div align="justify">
 
 ### Alat
-- Oracle VM VirtualBox
+•	Seperangkat PC atau laptop
+•	Modul praktikum
+•	Software Virtual Box
+•	ISO Linux (22.04.4 LTS)
+•	Jaringan Internet
+•	Ruang Penyimpanan
 
-### Bahan
-- File ISO Ubuntu Versi 24.04
-- Komputer Host
-- Ruang Penyimpanan
-- Koneksi Internet
-- Memori RAM
+
 
 </div>
 
