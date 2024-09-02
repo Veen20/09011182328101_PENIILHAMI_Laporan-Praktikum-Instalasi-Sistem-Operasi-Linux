@@ -2,11 +2,7 @@
 
 <div align="center">
 
-## LAPORAN PRAKTIKUM SISTEM OPERASI
-
-## FSK2108
-
-## PROSES INTSALLASI SISTEM OPERASI UBUNTU
+## LAPORAN PRAKTIKUM INSTALASI SISTEM OPERASI LINUX
 
 *Dosen Pengampu:*\
 Ahmad Heryanto, M. T.\
@@ -15,7 +11,7 @@ Sutarno, M.T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Dr. Ahmad Zarkarsi, M. T.
 
-![Logo Universitas Sriwijaya](https://github.com/SyaifulKaromah/foto-repo/blob/afa46f9c1746a24004c7106948d9a7adcf28a5be/1639367926_61ac53fbb7fda3f5b72f.png)
+<img src ="(https://github.com/user-attachments/assets/b81d3496-488d-4585-99e4-66afeae6734f)"width =500">
 
 *Disusun Oleh:*\
 Nama: M. Syaiful Karomah\
