@@ -11,7 +11,8 @@ Sutarno, M.T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Dr. Ahmad Zarkarsi, M. T.
 
-<img src="https://github.com/user-attachments/assets/b81d3496-488d-4585-99e4-66afeae6734f"alt="Gambar Besar" width="500">
+
+<img src="https://github.com/user-attachments/assets/b81d3496-488d-4585-99e4-66afeae6734f" alt="Alt Text" width="400">
 
 *Disusun Oleh:*\
 Nama: M. Syaiful Karomah\
