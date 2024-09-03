@@ -119,40 +119,41 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 <div align="justify">
 
-1. Siapkan File ISO Ubuntu Versi 24.04
-2. Buka Virtual Box
-3. Tekan Tombol Baru
-4. Tuliskan Nama, tentukan folder penyimpanan, kemudian Lanjut
+1. Instal VirtualBox dari situs oracle VirtualBox dan unduh file ISO Ubuntu Versi 24.04.4 LTS dari sumber yang ada.
+2. Buka aplikasi VirtualBox, kemudian pilih opsi Baru/New.
+   
+4. Tekan Tombol Baru
+5. Tuliskan Nama, tentukan folder penyimpanan, kemudian Lanjut
 
    ![Langkah 4]()
 
-5. Tentukan besaran ram dan core prossesor
+6. Tentukan besaran ram dan core prossesor
 
    ![Langkah 5](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step5.png)
 
-6. Tentukan besaran Penyimpanan yang akan di alokasikan
+7. Tentukan besaran Penyimpanan yang akan di alokasikan
 
    ![Langkah 6](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6.png)
 
    ![Langkah 6-2](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6-2.png)
 
-7. Masukkan ISO Ubuntu 24.04
+8. Masukkan ISO Ubuntu 24.04
 
    ![Langkah 7](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step7.png)
 
-8. Try or Install Ubuntu
+9. Try or Install Ubuntu
 
    ![Langkah 8](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step8.png)
 
-9. Tunggu Proses Booting
+10. Tunggu Proses Booting
 
     ![Langkah 9](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step9.png)
 
-10. Next
+11. Next
 
     ![Langkah 10](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step10.png)
 
-11. Pasang Ubuntu
+12. Pasang Ubuntu
 
 ![Langkah 11](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step11.png)
 
