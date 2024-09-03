@@ -121,14 +121,16 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 1. Instal VirtualBox dari situs oracle VirtualBox dan unduh file ISO Ubuntu Versi 24.04.4 LTS dari sumber yang ada.
 2. Buka aplikasi VirtualBox, kemudian pilih opsi Baru/New.
-3. <img width="280" alt="Langkah pertama" src="https://github.com/user-attachments/assets/25e850d8-9bbc-471a-bbed-0250be9b739d">
+   
+ <img width="315" alt="Langkah pertama" src="https://github.com/user-attachments/assets/25e850d8-9bbc-471a-bbed-0250be9b739d">
 
 4. Setelah tampil seperti ini,tentukan Nama, folder penyimpanan, serta masukan ISO Ubuntu 24.04.4 LTS. Kemudian klik lanjut
-5. <img width="248" alt="Langkah Kedua" src="https://github.com/user-attachments/assets/f91f8886-d654-4bbf-8813-c6c850db01a8">
+
+ <img width="315" alt="Langkah Kedua" src="https://github.com/user-attachments/assets/f91f8886-d654-4bbf-8813-c6c850db01a8">
 
 6. Tuliskan nama pengguna dan kata sandi yang diinginkan
 
-   <img width="297" alt="langkah ketiga" src="https://github.com/user-attachments/assets/85e527dc-d6c4-4de0-a8ac-e74c5f66ce99">
+   <img width="315" alt="langkah ketiga" src="https://github.com/user-attachments/assets/85e527dc-d6c4-4de0-a8ac-e74c5f66ce99">
 
 7. Kemudian tentukan besaran Penyimpanan yang akan di alokasikan sesuai dengan spesifikasi laptop
 
@@ -136,45 +138,45 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 8. Kemudian akan muncul tampilan ringkasan, cukup klik selesai
 
-   <img width="314" alt="langkah kelima" src="https://github.com/user-attachments/assets/d47df5e6-6d73-41cb-a7ca-b4d20621018d">
+   <img width="315" alt="langkah kelima" src="https://github.com/user-attachments/assets/d47df5e6-6d73-41cb-a7ca-b4d20621018d">
 
 9. Setelah itu masuk ke pengaturan, ke opsi jaringan dan bagian adaptor 1 di ganti jaringan internal
     
-   <img width="259" alt="langkah keenam" src="https://github.com/user-attachments/assets/78cc6d6a-790e-42d1-8ab0-cde9025229f7">
+   <img width="315" alt="langkah keenam" src="https://github.com/user-attachments/assets/78cc6d6a-790e-42d1-8ab0-cde9025229f7">
 
 11. Kemudian pilih opsi start atau tampilkan, akan muncul banyak pilihan bahasa, pilih english
 
-    ![langkah ketujuh](https://github.com/user-attachments/assets/2092ea74-ef06-43cf-ab8a-d16061a466c2)
+    
+   <img width="315" alt="langkah ketujuh" src="https://github.com/user-attachments/assets/2092ea74-ef06-43cf-ab8a-d16061a466c2">
 
 12. Klik pada peta Indonesia, Jakarta
 
-    <img width="314" alt="langkah kedelapan" src="https://github.com/user-attachments/assets/7561761d-04a5-40e9-a97e-bca92780cb67">
+    <img width="315" alt="langkah kedelapan" src="https://github.com/user-attachments/assets/7561761d-04a5-40e9-a97e-bca92780cb67">
 
 13. Masukan nama pengguna beserta kata sandi yang dibuat di awal
 
-    ![langkah kesembilan](https://github.com/user-attachments/assets/7352e6a0-2cfc-4cd8-8136-d21849189e17)
+       <img width="315" alt="langkah kesembilan" src="https://github.com/user-attachments/assets/7352e6a0-2cfc-4cd8-8136-d21849189e17">
 
 12. Pada tampilan seperti ini pilih opsi Restart Now
     
-   ![langkah kesepuluh](https://github.com/user-attachments/assets/71db9009-0ef1-4a91-961e-15bcfebe79a2)
+      <img width="315" alt="langkah kesepuluh" src="https://github.com/user-attachments/assets/71db9009-0ef1-4a91-961e-15bcfebe79a2">
 
 14. Tunggu hingga muncul nama pengguna lalu klik di bagian nama pengguna kemudian masukan kata sandi
 
-   ![Langkah ke sebelas](https://github.com/user-attachments/assets/aacb7bb0-2dab-4b68-9a7d-63bf1a7b743b)
+   ![Langkah ke sebelas](https://github.com/user-attachments/assets/aacb7bb0-2dab-4b68-9a7d-63bf1a7b743b
 
 14. Tunggu beberapa saat, akan muncul beberapa opsi cukup di next in saja sampai muncul done
 
-   ![langkah ke duabelas](https://github.com/user-attachments/assets/75b855c5-f80b-48ca-957a-27788d854179)
+      <img width="315" alt="langkah ke duabelas" src="https://github.com/user-attachments/assets/75b855c5-f80b-48ca-957a-27788d854179">
 
 15. Ubuntu 24.04.4 LTS telah selesai di instal, ketika telah selesai digunakan jangan lupa untuk mematikan mesin virtualnya.
 
-   ![Ubuntu](https://github.com/user-attachments/assets/d8f3a332-1ff8-4423-83bc-cd346220816a)
+   
+   <img width="315" alt="Ubuntu" src="https://github.com/user-attachments/assets/d8f3a332-1ff8-4423-83bc-cd346220816a">
 
 </div>
 
-   ![Langkah 16](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/selesai.png)
-
-
+   
 <div align="center">
 <br>
 <br>
