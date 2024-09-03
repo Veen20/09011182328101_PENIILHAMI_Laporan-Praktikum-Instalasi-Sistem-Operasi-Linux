@@ -120,27 +120,23 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 <div align="justify">
 
 1. Instal VirtualBox dari situs oracle VirtualBox dan unduh file ISO Ubuntu Versi 24.04.4 LTS dari sumber yang ada.
-2.Buka aplikasi VirtualBox, kemudian pilih opsi Baru/New.
-   <img width="280" alt="Langkah pertama" src="https://github.com/user-attachments/assets/25e850d8-9bbc-471a-bbed-0250be9b739d">
+2. Buka aplikasi VirtualBox, kemudian pilih opsi Baru/New.
+3. <img width="280" alt="Langkah pertama" src="https://github.com/user-attachments/assets/25e850d8-9bbc-471a-bbed-0250be9b739d">
 
-4. Tekan Tombol Baru
-5. Tuliskan Nama, tentukan folder penyimpanan, kemudian Lanjut
+4. Setelah tampil seperti ini,tentukan Nama, folder penyimpanan, serta masukan ISO Ubuntu 24.04.4 LTS. Kemudian klik lanjut
+5. <img width="248" alt="Langkah Kedua" src="https://github.com/user-attachments/assets/f91f8886-d654-4bbf-8813-c6c850db01a8">
 
-   ![Langkah 4]()
+6. Tuliskan nama pengguna dan kata sandi yang diinginkan
 
-6. Tentukan besaran ram dan core prossesor
+   <img width="297" alt="langkah ketiga" src="https://github.com/user-attachments/assets/85e527dc-d6c4-4de0-a8ac-e74c5f66ce99">
 
-   ![Langkah 5](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step5.png)
+7. Kemudian tentukan besaran Penyimpanan yang akan di alokasikan sesuai dengan spesifikasi laptop
 
-7. Tentukan besaran Penyimpanan yang akan di alokasikan
+   <img width="315" alt="Langkah keempat" src="https://github.com/user-attachments/assets/275a35f2-8832-4edb-9712-398043534770">
 
-   ![Langkah 6](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6.png)
+8. Kemudian akan muncul tampilan ringkasan, cukup klik selesai
 
-   ![Langkah 6-2](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6-2.png)
-
-8. Masukkan ISO Ubuntu 24.04
-
-   ![Langkah 7](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step7.png)
+   <img width="314" alt="langkah kelima" src="https://github.com/user-attachments/assets/d47df5e6-6d73-41cb-a7ca-b4d20621018d">
 
 9. Try or Install Ubuntu
 
