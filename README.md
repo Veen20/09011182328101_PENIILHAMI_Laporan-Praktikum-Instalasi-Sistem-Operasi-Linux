@@ -39,14 +39,14 @@ KELAS       : SK3B
 
 >
 *[Alat dan Bahan](#alat-dan-bahan)*
-  > [Alat dan Bahan](#alat-dan-bahan)\
+  > [Alat dan Bahan](#alat-dan-bahan)
  
 >
 *[Langkah-langkah](#Langkah-langkah)*
 
 >
 *[Hasil dan Pembahasan](#hasil-dan-pembahasan)*
-  > [Hasil dan Pembahasan](#hasil-dan-Pembahasan)\
+  > [Hasil dan Pembahasan](#hasil-dan-Pembahasan)
  
 
 >
