@@ -139,19 +139,19 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
    <img width="314" alt="langkah kelima" src="https://github.com/user-attachments/assets/d47df5e6-6d73-41cb-a7ca-b4d20621018d">
 
 9. Setelah itu masuk ke pengaturan, ke opsi jaringan dan bagian adaptor 1 di ganti jaringan internal
-   ![Langkah 8](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step8.png)
+   <img width="259" alt="langkah keenam" src="https://github.com/user-attachments/assets/78cc6d6a-790e-42d1-8ab0-cde9025229f7">
 
-10. Tunggu Proses Booting
+10. Kemudian pilih opsi start atau tampilkan, akan muncul banyak pilihan bahasa, pilih english
 
-    ![Langkah 9](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step9.png)
+    ![langkah ketujuh](https://github.com/user-attachments/assets/2092ea74-ef06-43cf-ab8a-d16061a466c2)
 
-11. Next
+11. Klik pada peta Indonesia, Jakarta
 
-    ![Langkah 10](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step10.png)
+    ![langkah kedelapan](https://github.com/user-attachments/assets/7561761d-04a5-40e9-a97e-bca92780cb67)
 
-12. Pasang Ubuntu
+12. Masukan nama pengguna beserta kata sandi yang dibuat di awal
 
-![Langkah 11](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step11.png)
+    ![langkah kesembilan](https://github.com/user-attachments/assets/7352e6a0-2cfc-4cd8-8136-d21849189e17)
 
 12. Masukkan Identitas yang diperlukan dan Password
 
