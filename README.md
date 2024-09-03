@@ -137,7 +137,6 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
     <img width="315" alt="Langkah keempat" src="https://github.com/user-attachments/assets/275a35f2-8832-4edb-9712-398043534770">
 
 8. Kemudian akan muncul tampilan ringkasan, cukup klik selesai
-
     <img width="315" alt="langkah kelima" src="https://github.com/user-attachments/assets/d47df5e6-6d73-41cb-a7ca-b4d20621018d">
 
 9. Setelah itu masuk ke pengaturan, ke opsi jaringan dan bagian adaptor 1 di ganti jaringan internal
