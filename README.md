@@ -42,12 +42,8 @@ KELAS       : SK3B
   > [Alat dan Bahan](#alat-dan-bahan)
  
 >
-*[Langkah-langkah](#Langkah-langkah)*
-
->
 *[Hasil dan Pembahasan](#hasil-dan-pembahasan)*
-  > [Hasil dan Pembahasan](#hasil-dan-Pembahasan)
- 
+>[Langkah-langkah](#Langkah-langkah)*
 
 >
 *[Kesimpulan](#kesimpulan)*
@@ -112,6 +108,11 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 <div align="center">
 <br>
 <br>
+
+## Hasil dan Pembahasan
+</div>
+
+<div align="justify">
 
 ## Langkah-langkah
 
@@ -188,7 +189,7 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 <div align="justify">
 
-### Hasil dan Pembahasan
+### Hasil 
 Hasil dari praktikum ini adalah sebagai berikut:
 -	[x] Berhasil menginstal dan mengkonfigurasi Oracle VM VirtualBox pada komputer host.
 -	[x] Berhasil membuat mesin virtual baru dengan spesifikasi yang sesuai untuk Ubuntu:
@@ -280,7 +281,6 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 
 ## Analisislah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi *mount point*?
 
-![Mount Point Selection](https://github.com/SyaifulKaromah/foto-repo/blob/e433532cee5da6d4afdc9639eebc9ae06a79300b/Mount.png)
 
 <br>
 
