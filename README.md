@@ -121,7 +121,8 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 1. Instal VirtualBox dari situs oracle VirtualBox dan unduh file ISO Ubuntu Versi 24.04.4 LTS dari sumber yang ada.
 2. Buka aplikasi VirtualBox, kemudian pilih opsi Baru/New.
-   
+   <img width="280" alt="Langkah pertama" src="https://github.com/user-attachments/assets/25e850d8-9bbc-471a-bbed-0250be9b739d">
+
 4. Tekan Tombol Baru
 5. Tuliskan Nama, tentukan folder penyimpanan, kemudian Lanjut
 
