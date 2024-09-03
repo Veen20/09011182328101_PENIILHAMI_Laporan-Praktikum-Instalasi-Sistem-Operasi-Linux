@@ -97,7 +97,7 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 <div align="justify">
 
-### Alat
+### Alat dan Bahan
 •	Seperangkat PC atau laptop\
 •	Modul praktikum\
 •	Software Virtual Box\
@@ -113,7 +113,7 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 <br>
 <br>
 
-## Prosedur
+## Langkah-langkah
 
 </div>
 
