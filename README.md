@@ -98,11 +98,11 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 <div align="justify">
 
 ### Alat
-•	Seperangkat PC atau laptop
-•	Modul praktikum
-•	Software Virtual Box
-•	ISO Linux (22.04.4 LTS)
-•	Jaringan Internet
+•	Seperangkat PC atau laptop\
+•	Modul praktikum\
+•	Software Virtual Box\
+•	ISO Linux (22.04.4 LTS)\
+•	Jaringan Internet\
 •	Ruang Penyimpanan
 
 
