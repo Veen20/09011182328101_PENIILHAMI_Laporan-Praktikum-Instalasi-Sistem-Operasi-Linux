@@ -43,7 +43,7 @@ KELAS       : SK3B
  
 >
 *[Hasil dan Pembahasan](#hasil-dan-pembahasan)*
->[Langkah-langkah](#Langkah-langkah)*
+>[Langkah-langkah](#langkah-langkah)
 
 >
 *[Kesimpulan](#kesimpulan)*
@@ -176,55 +176,6 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
     <img width="400" alt="Ubuntu" src="https://github.com/user-attachments/assets/d8f3a332-1ff8-4423-83bc-cd346220816a">
 
-</div>
-
-   
-<div align="center">
-<br>
-<br>
-
-## Hasil dan Pembahasan
-
-</div>
-
-<div align="justify">
-
-### Hasil 
-Hasil dari praktikum ini adalah sebagai berikut:
--	[x] Berhasil menginstal dan mengkonfigurasi Oracle VM VirtualBox pada komputer host.
--	[x] Berhasil membuat mesin virtual baru dengan spesifikasi yang sesuai untuk Ubuntu:
-    - Alokasi RAM: 5199 MB
-    -	Alokasi penyimpanan: 20 GB
-    -	Jumlah core prosesor: 1
--	[x] Berhasil menginstal Ubuntu 24.04 LTS pada mesin virtual yang telah dibuat.
--	[x] Berhasil melakukan konfigurasi awal Ubuntu, termasuk:
-    -	Pemilihan bahasa dan zona waktu
-    -	Pembuatan akun pengguna
-    -	Pengaturan koneksi jaringan
--	[x] Berhasil melakukan boot ke sistem operasi Ubuntu yang baru diinstal dan memverifikasi fungsionalitas dasarnya.
-
-
--	Persiapan dan Konfigurasi VirtualBox:\
-Penggunaan VirtualBox memungkinkan instalasi Ubuntu tanpa mempengaruhi sistem operasi host. Ini memberikan lingkungan yang aman untuk eksperimen dan pembelajaran. Alokasi sumber daya (RAM, penyimpanan, core prosesor) harus dipertimbangkan dengan cermat untuk memastikan kinerja yang optimal dari sistem virtual.
-
--	Proses Instalasi Ubuntu:\
-Instalasi Ubuntu berjalan lancar tanpa kendala signifikan. Antarmuka instalasi Ubuntu yang user-friendly memudahkan proses, bahkan bagi pengguna yang baru mengenal Linux. Pemilihan opsi "Try or Install Ubuntu" memungkinkan pengguna untuk mencoba sistem sebelum melakukan instalasi penuh, yang merupakan fitur yang berguna untuk pengenalan awal.
-
--	Konfigurasi Sistem:\
-Proses konfigurasi awal Ubuntu, termasuk pemilihan bahasa, pengaturan zona waktu, dan pembuatan akun pengguna, berjalan dengan baik. Ini mendemonstrasikan fleksibilitas Ubuntu dalam menyesuaikan dengan kebutuhan pengguna dari berbagai latar belakang dan lokasi geografis.
-
--	Performa Sistem:\
-Setelah instalasi, Ubuntu berjalan dengan baik di lingkungan virtual. Meskipun ada sedikit penurunan performa dibandingkan dengan instalasi pada hardware langsung, hal ini wajar dalam lingkungan virtualisasi. Penggunaan Guest Additions VirtualBox dapat meningkatkan performa dan integrasi antara sistem host dan guest.
-
--	Pembelajaran dan Implikasi:\
-Praktikum ini memberikan wawasan berharga tentang proses instalasi sistem operasi dan manajemen sumber daya komputer. Mahasiswa dapat melihat secara langsung bagaimana sistem operasi diinstal dan dikonfigurasi, yang penting untuk pemahaman yang lebih dalam tentang cara kerja sistem operasi.
-
--	Tantangan dan Solusi:\
-Beberapa tantangan yang mungkin dihadapi termasuk masalah kompatibilitas hardware virtual dan alokasi sumber daya yang tidak mencukupi. Solusinya melibatkan penyesuaian pengaturan VirtualBox dan alokasi sumber daya yang tepat.
-
--	Penerapan Konsep Sistem Operasi:\
-Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi seperti manajemen memori, penjadwalan prosesor, dan sistem file. Mahasiswa dapat melihat bagaimana konsep-konsep ini diterapkan dalam konteks nyata instalasi dan konfigurasi sistem.
-
 
 </div>
 
@@ -255,11 +206,17 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 <div align="justify">
 
 - Praktikum 1	Sistem Operasi Linux
+- Telkomuniversity.ac.id. (2021). VirtualBox Adalah Aplikasi Open Source, Lalu Apa Keuntungannya. 
 - Canonical Ltd. (2024). Ubuntu Desktop for developers. https://ubuntu.com/desktop/developers
-- Oracle Corporation. (2024). Oracle VM VirtualBox User Manual. https://www.virtualbox.org/manual/
-- Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). Operating System Concepts (10th ed.). Wiley.
 - Tanenbaum, A. S., & Bos, H. (2014). Modern Operating Systems (4th ed.). Peason.
 - Ubuntu Documentation Team. (2024). Ubuntu Server Guide. https://ubuntu.com/server/docs
+- Jagongoding.com. (2021). Apa itu VirtualBox?.https://jagongoding.com/others/apa-itu-virtual-box.
+- Wikipedia. (2023). VirtualBox. https://id.wikipedia.org/wiki/VirtualBox.
+- Telkomuniversity.ac.id. (2021). Membahas VirtualBox dan Beberapa Keuntungannya.https://dte.telkomuniversity.ac.id/membahas-virtualbox-dan-beberapa- 
+  keuntungannya.
+- Himatif.ilkom.unej.ac.id. (2021). Mengenal VirtualBox: Menjalankan Beberapa Sistem Operasi Dalam Satu Platform.    
+  https://himatif.ilkom.unej.ac.id/berita/mengenal-virtualbox-menjalankan-beberapa-sistem-operasi-dalam-satu-platform.
+- Revou.co. (2021). Apa itu Oracle VM VirtualBox? Arti, Fungsi, Co. https://revou.co/kosakata/oracle-vm-virtualbox.
 
 </div>
 
@@ -269,30 +226,24 @@ Praktikum ini mengilustrasikan konsep-konsep penting dalam sistem operasi sepert
 
 [←    BACK](#praktikum-1---sistem-operasi)
 # Soal 2
-
-## Informasi Mahasiswa
-- *Nama:* 
-- *NIM:*
-- *Kelas:*
-
 <br>
 
 <div asign= "justify">
 
 ## Analisislah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi *mount point*?
 
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/ea0a808d-4862-47c9-b9cf-24b51c61d45d">
+
 
 <br>
 
 ## Jawaban
 
-Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi *mount point*:
+Pemilihan “/” pada opsi Mount Point saat instalasi Linux adalah langkah penting karena simbol “/” merepresentasikan partisi root dalam sistem operasi Linux. Partisi root adalah pusat dari semua direktori dan file dalam sistem Linux, mirip dengan fungsi drive C: pada Windows. Ketika Anda memilih “/” sebagai mount point, Anda menentukan bahwa semua file sistem dan direktori utama akan ditempatkan dalam partisi ini.
 
-1. Tanda "/" merupakan direktori root, yang mana merupakan tempat tertinggi dalam struktur sistem file. Jadi, ketika dipilih "/" sebagai mount point, maka sebenarnya kita memasang sistem operasi di direktori root.
+Partisi root adalah tempat di mana sistem operasi akan mengakses dan menyimpan file-file penting yang diperlukan untuk beroperasi dengan benar. Dengan memilih “/”, Anda memastikan bahwa partisi ini digunakan sebagai sistem file utama, memungkinkan sistem operasi untuk mengelola struktur direktori dan file secara efisien. Selain itu, setelah memilih mount point sebagai “/”, opsi-opsi lain seperti jenis sistem file (misalnya, Ext4) akan muncul, memberikan Anda kontrol lebih lanjut dalam mengonfigurasi sistem.
 
-2. Pilihan "/" membuat kita bisa mengakses semua file dan folder di System. Misalnya ketika ingin membuka file di Desktop, Jalur lengkapnya adalah "/Desktop". Jadi dengan di pilihnya "/" sebagai mount point, maka semua jalur file dapat diakses dengan mudah.
-
-3. Karena hampir semua distribusi Linux menggunakan "/" sebagai direktori root.
+Secara keseluruhan, pemilihan “/” sebagai mount point adalah langkah kunci untuk memastikan bahwa instalasi Linux berjalan dengan baik, karena partisi root merupakan fondasi dari keseluruhan sistem operasi.
 
 </div>
 
@@ -303,11 +254,6 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi *mount po
 [←    BACK](#praktikum-1---sistem-operasi)
 # Soal 3
 
-## Informasi Mahasiswa
-- *Nama:*
-- *NIM:* 
-- *Kelas:* 
-
 <br>
 
 <div align="Justify">
@@ -316,35 +262,30 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi *mount po
 
 <br>
 
-## Jawab:
+## Jawaban:
 
-*1. ext4:*
-  - Penerus dari ext3 dengan peningkatan performa dan fitur
-  - Mendukung volume dan file berukuran sangat besar
-  - Memiliki fitur journaling untuk mencegah kerusakan data
+*1. ext4*
+Kapasitas: Mendukung hingga 64 zebibyte (ZiB) dan file individu hingga 16 tebibytes (TiB).
+Fitur: Menggunakan extent, kompatibel dengan ext3 dan ext2, memiliki pre-alokasi persisten, alokasi tertunda, alokasi multi-blok, dan alokasi yang sadar striping.
 
-*2. ext3:*
-  - Versi sebelumnya dari ext4
-  - Menambahkan fitur journaling ke ext2
-  - Kompatibel dengan ext2 dan ext4
+*2. ext3*
+Kapasitas: Mendukung hingga 16 terabyte dan file individu hingga 2 terabyte.
+Fitur: Kompatibel dengan ext2, memiliki jurnal yang meningkatkan keandalan file sistem.
 
-*3. swap:*
-  - Bukan sistem file, melainkan ruang pada hard drive yang digunakan sebagai memori virtual
-  - Membantu sistem ketika RAM fisik penuh
+*3. Swap*
+Fungsi: Digunakan untuk meningkatkan kemampuan sistem operasi dalam menggunakan RAM yang terbatas.
+Konfigurasi: Biasanya dikonfigurasi sebagai partisi pada hard disk atau SSD.
 
-*4. NTFS:*
-  - New Technology File System, dikembangkan oleh Microsoft
-  - Digunakan pada sistem operasi Windows modern
-  - Mendukung fitur keamanan, kompresi, dan enkripsi
+*4. NTFS*
+Kapasitas: Mendukung volume hingga 256 terabyte dan file individu hingga 256 terabyte.
+Fitur: Jurnal, kompresi data, kontrol akses yang kompleks, dan fitur keamanan seperti enkripsi file dan folder.
 
-*5. FAT32:*
-  - File Allocation Table 32-bit
-  - Sistem file lama namun masih kompatibel dengan banyak perangkat
-  - Memiliki batasan ukuran file maksimal 4GB
+*5. FAT32*
+Kapasitas: Mendukung volume hingga 8 terabyte dan file individu hingga 4 gigabyte.
+Fitur: Jurnal dan kontrol akses yang sederhana, tetapi memiliki keterbatasan seperti tidak mendukung file dan folder yang sangat besar.
 
-*6. Btrfs:*
-  - B-tree File System, dikembangkan untuk Linux
-  - Menawarkan fitur canggih seperti snapshots, kompresi, dan RAID
-  - Fokus pada toleransi kesalahan dan kemudahan pengelolaan penyimpanan
+*6. Btrfs*
+Kapasitas: Mendukung volume hingga 16 exabyte dan file individu hingga 16 exabyte.
+Fitur: Jurnal, kompresi data, kontrol akses yang kompleks, fitur keamanan seperti enkripsi file dan folder, serta fitur snapshot dan subvolume yang memungkinkan pengguna membuat salinan file sistem dan mengelola salinan tersebut dengan mudah.
 
 </dir>
