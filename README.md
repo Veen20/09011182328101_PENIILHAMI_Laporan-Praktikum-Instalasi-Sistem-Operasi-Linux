@@ -39,11 +39,11 @@ KELAS       : SK3B
 
 >
 *[Alat dan Bahan](#alat-dan-bahan)*
-  > [Alat dan Bahan](#alat dan bahan)\
-  
+  > [Alat](#alat)\
+  > [Bahan](#bahan)
 
 >
-*[Langkah-langkah](#Langkah-langkah)*
+*[Prosedur](#prosedur)*
 
 >
 *[Hasil dan Pembahasan](#hasil-dan-pembahasan)*
@@ -55,6 +55,7 @@ KELAS       : SK3B
 
 >
 *[Daftar Pustaka](#daftar-pustaka)*
+
 
 <div align="center">
 <br>
@@ -91,13 +92,13 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 <br>
 <br>
 
-## Alat dan Bahan
+# Alat dan Bahan
 
 </div>
 
 <div align="justify">
 
-### Alat dan Bahan
+## Alat dan Bahan
 •	Seperangkat PC atau laptop\
 •	Modul praktikum\
 •	Software Virtual Box\
@@ -188,7 +189,7 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 <div align="justify">
 
-### Hasil
+### Hasil dan Pembahasan
 Hasil dari praktikum ini adalah sebagai berikut:
 -	[x] Berhasil menginstal dan mengkonfigurasi Oracle VM VirtualBox pada komputer host.
 -	[x] Berhasil membuat mesin virtual baru dengan spesifikasi yang sesuai untuk Ubuntu:
@@ -202,7 +203,7 @@ Hasil dari praktikum ini adalah sebagai berikut:
     -	Pengaturan koneksi jaringan
 -	[x] Berhasil melakukan boot ke sistem operasi Ubuntu yang baru diinstal dan memverifikasi fungsionalitas dasarnya.
 
-### Pembahasan
+
 -	Persiapan dan Konfigurasi VirtualBox:\
 Penggunaan VirtualBox memungkinkan instalasi Ubuntu tanpa mempengaruhi sistem operasi host. Ini memberikan lingkungan yang aman untuk eksperimen dan pembelajaran. Alokasi sumber daya (RAM, penyimpanan, core prosesor) harus dipertimbangkan dengan cermat untuk memastikan kinerja yang optimal dari sistem virtual.
 
