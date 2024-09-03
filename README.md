@@ -122,11 +122,11 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 1. Instal VirtualBox dari situs oracle VirtualBox dan unduh file ISO Ubuntu Versi 24.04.4 LTS dari sumber yang ada.
 2. Buka aplikasi VirtualBox, kemudian pilih opsi Baru/New.
    
-  <img width="315" alt="Langkah pertama" src="https://github.com/user-attachments/assets/25e850d8-9bbc-471a-bbed-0250be9b739d">
+   <img width="315" alt="Langkah pertama" src="https://github.com/user-attachments/assets/25e850d8-9bbc-471a-bbed-0250be9b739d">
 
 4. Setelah tampil seperti ini,tentukan Nama, folder penyimpanan, serta masukan ISO Ubuntu 24.04.4 LTS. Kemudian klik lanjut
 
-  <img width="315" alt="Langkah Kedua" src="https://github.com/user-attachments/assets/f91f8886-d654-4bbf-8813-c6c850db01a8">
+   <img width="315" alt="Langkah Kedua" src="https://github.com/user-attachments/assets/f91f8886-d654-4bbf-8813-c6c850db01a8">
 
 6. Tuliskan nama pengguna dan kata sandi yang diinginkan
 
