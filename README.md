@@ -148,7 +148,7 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
 12. Klik pada peta Indonesia, Jakarta
 
-    ![langkah kedelapan](https://github.com/user-attachments/assets/7561761d-04a5-40e9-a97e-bca92780cb67)
+    <img width="314" alt="langkah kedelapan" src="https://github.com/user-attachments/assets/7561761d-04a5-40e9-a97e-bca92780cb67">
 
 13. Masukan nama pengguna beserta kata sandi yang dibuat di awal
 
