@@ -154,25 +154,21 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
 
     ![langkah kesembilan](https://github.com/user-attachments/assets/7352e6a0-2cfc-4cd8-8136-d21849189e17)
 
-12. Masukkan Identitas yang diperlukan dan Password
+12. Pada tampilan seperti ini pilih opsi Restart Now
+    
+   ![langkah kesepuluh](https://github.com/user-attachments/assets/71db9009-0ef1-4a91-961e-15bcfebe79a2)
 
-![Langkah 12](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step12.png)
+14. Tunggu hingga muncul nama pengguna lalu klik di bagian nama pengguna kemudian masukan kata sandi
 
-13. Klik "Mulai Memasang"
+   ![Langkah ke sebelas](https://github.com/user-attachments/assets/aacb7bb0-2dab-4b68-9a7d-63bf1a7b743b)
 
-![Langkah 13](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step13.png)
+14. Tunggu beberapa saat, akan muncul beberapa opsi cukup di next in saja sampai muncul done
 
-14. Tunggu Proses Installasi selesai
+   ![langkah ke duabelas](https://github.com/user-attachments/assets/75b855c5-f80b-48ca-957a-27788d854179)
 
-![Langkah 14](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/loading.png)
+15. Ubuntu 24.04.4 LTS telah selesai di instal, ketika telah selesai digunakan jangan lupa untuk mematikan mesin virtualnya.
 
-15. Kemudian, "Restart now"
-
-![Langkah 15](https://github.com/SyaifulKaromah/foto-repo/blob/c9f20bf27a7fc03518c6200053bb3de74a7459e6/restartnow.png)
-
-![Langkah 15-2](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/booting.png)
-
-16. Ubuntu telah selesai di install
+   ![Ubuntu](https://github.com/user-attachments/assets/d8f3a332-1ff8-4423-83bc-cd346220816a)
 
 </div>
 
