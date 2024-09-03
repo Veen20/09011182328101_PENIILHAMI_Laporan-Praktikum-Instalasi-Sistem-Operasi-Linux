@@ -139,17 +139,18 @@ Dengan pemahaman ini, diharapkan dapat meningkatkan keterampilan teknis dalam me
    <img width="314" alt="langkah kelima" src="https://github.com/user-attachments/assets/d47df5e6-6d73-41cb-a7ca-b4d20621018d">
 
 9. Setelah itu masuk ke pengaturan, ke opsi jaringan dan bagian adaptor 1 di ganti jaringan internal
+    
    <img width="259" alt="langkah keenam" src="https://github.com/user-attachments/assets/78cc6d6a-790e-42d1-8ab0-cde9025229f7">
 
-10. Kemudian pilih opsi start atau tampilkan, akan muncul banyak pilihan bahasa, pilih english
+11. Kemudian pilih opsi start atau tampilkan, akan muncul banyak pilihan bahasa, pilih english
 
     ![langkah ketujuh](https://github.com/user-attachments/assets/2092ea74-ef06-43cf-ab8a-d16061a466c2)
 
-11. Klik pada peta Indonesia, Jakarta
+12. Klik pada peta Indonesia, Jakarta
 
     ![langkah kedelapan](https://github.com/user-attachments/assets/7561761d-04a5-40e9-a97e-bca92780cb67)
 
-12. Masukan nama pengguna beserta kata sandi yang dibuat di awal
+13. Masukan nama pengguna beserta kata sandi yang dibuat di awal
 
     ![langkah kesembilan](https://github.com/user-attachments/assets/7352e6a0-2cfc-4cd8-8136-d21849189e17)
 
