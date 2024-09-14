@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## LAPORAN PRAKTIKUM INSTALASI SISTEM OPERASI LINUX
+## LAPORAN PRAKTIKUM INSTALASI SISTEM OPERASI LINUX.
 
 *Dosen Pengampu:*\
 Ahmad Heryanto, M. T.\
